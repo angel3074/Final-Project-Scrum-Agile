@@ -15,3 +15,6 @@ So that ´´outcome´´
 
 
 ##Acceptance criteria
+Given ''some context''
+When ''certain action is taken''
+Then ''the action outcome is observed''
